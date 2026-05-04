@@ -34,6 +34,6 @@ Ver en vivo:** [apuntes-ia.netlify.app](https://apuntes-ia.netlify.app)
  📫 Contacto
 
 🌐 **Portafolio:** [apuntes-ia.netlify.app](https://apuntes-ia.netlify.app)  
-📧 **Email:** nicolasamaya@ejemplo.com *(cambia esto por tu email real)*
+📧 **Email:** amayacastrodiaz@gmail.com
 
 💡 *Construyendo el futuro, una línea de código a la vez*
