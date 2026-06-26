@@ -2,7 +2,7 @@
 
 👨‍💻 Sobre mí
 
-Estudiante de Ingeniería de Sistemas (7mo semestre) en UNIMETA, Colombia.  
+Estudiante de Ingeniería de Sistemas (8vo semestre) en UNIMETA, Colombia.  
 Desarrollando soluciones web modernas que resuelven problemas reales.
 
 🔭 **Proyecto actual:** ApuntesIA - Organizador universitario con colaboración en tiempo real  
