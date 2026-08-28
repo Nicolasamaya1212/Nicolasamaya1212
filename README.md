@@ -14,7 +14,7 @@ Desarrollando soluciones web modernas, plataformas con IA y software interactivo
 
 🚀 Proyectos Destacados
 
-🧠 ApuntesIA (Proyecto de Grado / SaaS)
+🧠 ApuntesIA (Proyecto de Grado / SaaS) https://apuntes-ia.netlify.app/
 
 Plataforma web impulsada por Inteligencia Artificial para organizar apuntes universitarios. Extrae contenido de PDFs e imágenes con Groq y LLaMA 4, gestiona cursos compartidos y cuenta con un bot de Telegram integrado (@ApunteswebIA_bot).
 
